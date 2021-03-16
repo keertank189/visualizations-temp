@@ -6,4 +6,4 @@ Of particular interest, the 'Time series.md' file contains some basic time serie
 
 The 'q1.html' has an interactive plot in part b of the file. 
 
-The remaining file contain a large number and types of visualizations from various coursework/projects I have undertaken. 
+The remaining files contain a large number and types of visualizations from various coursework/projects I have undertaken. 
